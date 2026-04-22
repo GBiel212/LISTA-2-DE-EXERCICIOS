@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\bin\Debug\MAIOR VALOR.exe.config
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\bin\Debug\MAIOR VALOR.exe
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\bin\Debug\MAIOR VALOR.pdb
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\obj\Debug\MAIOR VALOR.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\obj\Debug\MAIOR VALOR.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\obj\Debug\MAIOR VALOR.exe
+C:\Users\sergi\source\repos\MAIOR VALOR\MAIOR VALOR\obj\Debug\MAIOR VALOR.pdb
