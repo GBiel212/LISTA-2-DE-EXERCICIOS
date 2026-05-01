@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\bin\Debug\3-VALORES.exe.config
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\bin\Debug\3-VALORES.exe
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\bin\Debug\3-VALORES.pdb
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\obj\Debug\3-VALORES.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\obj\Debug\3-VALORES.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\obj\Debug\3-VALORES.exe
+C:\Users\aluno\source\repos\3-VALORES\3-VALORES\obj\Debug\3-VALORES.pdb
