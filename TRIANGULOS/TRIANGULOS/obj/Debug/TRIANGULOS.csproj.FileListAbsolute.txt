@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\bin\Debug\TRIANGULOS.exe.config
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\bin\Debug\TRIANGULOS.exe
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\bin\Debug\TRIANGULOS.pdb
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\obj\Debug\TRIANGULOS.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\obj\Debug\TRIANGULOS.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\obj\Debug\TRIANGULOS.exe
+C:\Users\sergi\source\repos\TRIANGULOS\TRIANGULOS\obj\Debug\TRIANGULOS.pdb
