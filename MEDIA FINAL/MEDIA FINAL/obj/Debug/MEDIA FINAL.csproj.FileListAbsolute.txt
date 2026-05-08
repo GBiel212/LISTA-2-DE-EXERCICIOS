@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\bin\Debug\MEDIA FINAL.exe.config
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\bin\Debug\MEDIA FINAL.exe
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\bin\Debug\MEDIA FINAL.pdb
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\obj\Debug\MEDIA FINAL.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\obj\Debug\MEDIA FINAL.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\obj\Debug\MEDIA FINAL.exe
+C:\Users\sergi\source\repos\MEDIA FINAL\MEDIA FINAL\obj\Debug\MEDIA FINAL.pdb
