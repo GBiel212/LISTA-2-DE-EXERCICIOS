@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\bin\Debug\p2-APROVAÇÃO.exe.config
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\bin\Debug\p2-APROVAÇÃO.exe
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\bin\Debug\p2-APROVAÇÃO.pdb
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\obj\Debug\p2-APROVAÇÃO.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\obj\Debug\p2-APROVAÇÃO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\obj\Debug\p2-APROVAÇÃO.exe
+C:\Users\Usuario\source\repos\p2-APROVAÇÃO\p2-APROVAÇÃO\obj\Debug\p2-APROVAÇÃO.pdb
